@@ -1,8 +1,34 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Welcome everyone to the first site I'am creating.
 
-Welcome USER_NAME,
+The site will be created to testify the skills learned on HTML and CSS with the Code Institute course.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+The site will focus on a character from Italian military history: "Domenico Mondelli" (Asmara 30/06/1886 – Rome 13/12/1974)
+
+Unlike Italian society, the Italian army in its history has not been racist.
+In fact, in Italian military history, it is not uncommon to find black people even in the highest ranks.
+
+This aspect of Italian history is not well known (especially among Italians themselves),
+and I would like to take advantage of this exam to be able to create a website that talks about a character who,
+for history and honors, can be fascinating but that we risk forgetting.
+To say one of his firsts it would only be necessary to remember that he was the first aviator in the history of aviation.
+You will be able to find out more by visiting the site.
+
+
+The site aims to present "Domenico Mondelli" life, education, primates and honors,
+capture the attention of those interested in history (especially those in military history)
+and encourage experts to provide additional information, correlated with evidence (all this via a form).
+This is because, even if the Italian army was "inclusive", Italian society, its prejudices, twenty years of fascism plus the simple passage of time have created real black holes in the history of this man.
+
+I hope to make you appreciate a mostly unknown character.
+Enjoy the site!
+
+
+
+
+
+
+
+  /*OTHER NOTE*/
 
 ## Gitpod Reminders
 
@@ -41,5 +67,3 @@ We continually tweak and adjust this template to help give you the best experien
 **December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
 ---
-
-Happy coding!
