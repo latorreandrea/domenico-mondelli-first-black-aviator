@@ -47,6 +47,7 @@ body {
     border-bottom: 1px solid #252126;
 }
 
+
 /*allign position of logo and nav menu*/
 
 #logo,
@@ -61,6 +62,28 @@ body {
     width: 100%;
     background: url(../images/domenicomondelliheroimage.png) no-repeat top center;
     background-size: cover;
-    clear: both;
 
+}
+
+#hero-container {
+    height: 600px;
+    width: 100%;
+    clear: both;
+    position: relative;
+}
+
+#cover-text h2 {
+    color: #ECF5CE;
+}
+
+#cover-text {
+    font-weight: lighter;
+    font-style: italic;
+    padding: 40px 10px;
+    background-color: rgb(123, 71, 64, .4);
+
+    bottom: 25%;
+    left: 25%;
+
+    position: absolute;
 }
