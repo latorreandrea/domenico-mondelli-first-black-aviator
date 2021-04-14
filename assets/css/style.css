@@ -46,3 +46,13 @@ body {
 .active {
     border-bottom: 1px solid #252126;
 }
+
+/*hero image*/
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/domenicomondelliheroimage.png) no-repeat top center;
+    background-color: #252126;
+    clear: both;
+}
