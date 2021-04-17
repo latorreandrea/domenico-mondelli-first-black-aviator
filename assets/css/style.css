@@ -10,6 +10,7 @@ body {
     font-family: Oswald, sans-serif;
     font-weight: 300;
     color: #252126;
+    background-color: #FFFBCE;
 }
 
 /*Logo*/
@@ -58,8 +59,8 @@ body {
 /*hero image*/
 
 #hero-image {
-    height: 600px;
     width: 100%;
+    height: 600px;
     background: url(../images/domenicomondelliheroimage.png) no-repeat top center;
     background-size: cover;
 
@@ -86,4 +87,44 @@ body {
     left: 25%;
 
     position: absolute;
+}
+
+#left-column {
+    padding-top: 30px;
+    width: 50%;
+    height: 600px;
+    float: left;
+}
+
+#right-column {
+    padding-top: 30px;
+    width: 50%;
+    height: 600px;
+    float: right;
+}
+
+#left-column div {
+    width: 60%;
+    padding-bottom: 2cm;
+    padding-right: 2cm;
+    text-align: center;
+    float: right;
+}
+
+#right-column div {
+    width: 60%;
+    padding-top: 2cm;
+    padding-left: 2cm;
+    text-align: center;
+    float: left;
+}
+
+.left {
+    background-color: #C7A936;
+
+}
+
+.right {
+    background-color: #386C5F;
+
 }
