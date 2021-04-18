@@ -106,29 +106,25 @@ body {
 }
 
 #left-column div {
-    width: 60%;
-    padding-bottom: 2cm;
-    padding-right: 2cm;
+    width: 80%;
+    height: 25%;
     text-align: center;
     float: right;
+    padding: 10px;
+    margin: 0 5% 10% 5%;
+    background-color: #C7A936;
+    border-radius: 5px;
 }
 
 #right-column div {
-    width: 60%;
-    padding-top: 2cm;
-    padding-left: 2cm;
+    width: 80%;
+    height: 25%;
     text-align: center;
     float: left;
-
-}
-
-.left {
-    background-color: #C7A936;
-
-}
-
-.right {
+    padding: 10px;
+    margin: 10% 5% 0 5%;
     background-color: #386C5F;
+    border-radius: 5px;
 
 }
 
@@ -164,4 +160,26 @@ body {
     height: 600px;
     background-image: url(../images/eventbackground.png);
     background-size: cover;
+}
+
+/*footer*/
+
+footer {
+    background-color: rgb(123, 71, 64);
+    clear: both;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    color: #3a3a3a;
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
 }
