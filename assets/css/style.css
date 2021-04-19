@@ -83,8 +83,8 @@ body {
     padding: 40px 10px;
     background-color: rgb(123, 71, 64, .4);
 
-    bottom: 25%;
-    left: 25%;
+    bottom: 20%;
+    left: 20%;
 
     position: absolute;
 }
@@ -126,6 +126,10 @@ body {
     background-color: #386C5F;
     border-radius: 5px;
 
+}
+
+#summary p {
+    padding: 20px 5px;
 }
 
 /*expand community section*/
