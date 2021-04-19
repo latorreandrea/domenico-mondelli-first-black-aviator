@@ -134,32 +134,32 @@ body {
 
 /*expand community section*/
 
-#expand-community {
+.expand-community {
     width: 100%;
     height: 600px;
     text-align: center;
 }
 
-#documentation {
+.documentation {
     width: 20%;
     float: left;
     background-color: #386C5F;
 }
 
-#event {
+.event {
     width: 20%;
     float: right;
     background-color: #C7A936;
 }
 
-#documentation:hover {
+.documentation:hover {
     width: 50%;
     height: 600px;
     background-image: url(../images/senddocument.png);
     background-size: cover;
 }
 
-#event:hover {
+.event:hover {
     width: 50%;
     height: 600px;
     background-image: url(../images/eventbackground.png);
@@ -186,4 +186,26 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
+}
+
+/*bio table*/
+
+#bio {
+    clear: both;
+}
+
+#bio-table {
+    width: 30%;
+    float: left;
+    border: #252126 2px solid;
+
+}
+
+#passport {
+    width: 100%;
+    height: 300px;
+    background: url(../images/passaport.jpg) no-repeat center center;
+    background-size: cover;
+
+
 }
