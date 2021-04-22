@@ -227,6 +227,23 @@ footer {
     background-color: rgb(56, 108, 95, .4);
 }
 
+/*bio paragraph*/
 h1 {
     text-align: center;
+}
+
+.card-left{
+    width: 50%;
+    text-align: center;
+    float: left;
+    background-color: #386C5F;
+    border-radius: 5px;
+}
+
+.card-right{
+    width: 50%;
+    text-align: center;
+    float: right;
+    background-color: #C7A936;
+    border-radius: 5px;
 }
