@@ -198,7 +198,6 @@ footer {
     width: 30%;
     float: left;
     border: #252126 2px solid;
-
 }
 
 #passport {
@@ -206,6 +205,28 @@ footer {
     height: 350px;
     background: url(../images/passaport.jpg) no-repeat center center;
     background-size: cover;
-    
+}
 
+#bio-table tr {
+    line-height: 30px;
+}
+
+#bio-table tr th {
+    background-color: rgb(123, 71, 64, .4);
+    border-radius: 5px;
+}
+
+#bio-table tr td {
+    background-color: rgb(199, 169, 54, .4);
+    border-radius: 5px;
+}
+
+#bio-table .table-heder {
+    column-span: 2;
+    text-align: center;
+    background-color: rgb(56, 108, 95, .4);
+}
+
+h1 {
+    text-align: center;
 }
