@@ -138,6 +138,7 @@ body {
     width: 100%;
     height: 600px;
     text-align: center;
+    clear: both;
 }
 
 .documentation {
@@ -232,17 +233,21 @@ h1 {
     text-align: center;
 }
 
-.card-left{
-    width: 50%;
+.card-left {
+    width: 60%;
     text-align: center;
+    padding: 20px;
+    margin: 20px;
     float: left;
     background-color: #386C5F;
     border-radius: 5px;
 }
 
-.card-right{
-    width: 50%;
+.card-right {
+    width: 60%;
     text-align: center;
+    padding: 20px;
+    margin: 20px;
     float: right;
     background-color: #C7A936;
     border-radius: 5px;
