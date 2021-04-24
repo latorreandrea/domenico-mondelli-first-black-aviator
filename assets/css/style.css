@@ -273,9 +273,40 @@ img {
     float: right;
 }
 
-/*honors secton*/
+/*style for all figure caption and a ref*/
 
-#medals~img {
-    width: 60px;
-    height: 30px;
+figcaption {
+    text-align: center;
+}
+
+a {
+    color: #3a3a3a;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #C7A936;
+}
+
+.img-left a:hover {
+    color: #386C5F;
+}
+
+/*honors sector*/
+#medals {
+    clear: both;
+}
+
+#medals details {
+    padding: 10px 5px;
+    margin: 0 2px;
+    font-size: 25px;
+
+}
+
+#medals a img {
+    width: 150px;
+    height: 50px;
+    margin: 5px;
+
 }
