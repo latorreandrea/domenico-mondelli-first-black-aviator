@@ -34,7 +34,9 @@ body {
 #menu li {
     background-color: rgb(123, 71, 64, .4);
     display: inline;
-    padding: 0 5px;
+    padding: 0 3px;
+    margin: 0 2px;
+    border-radius: 5px;
 }
 
 #menu a {
