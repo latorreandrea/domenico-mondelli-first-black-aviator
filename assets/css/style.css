@@ -159,16 +159,10 @@ body {
 
 .documentation:hover {
     width: 50%;
-    height: 600px;
-    background-image: url(../images/senddocument.png);
-    background-size: cover;
 }
 
 .event:hover {
     width: 50%;
-    height: 600px;
-    background-image: url(../images/eventbackground.png);
-    background-size: cover;
 }
 
 /*footer*/
@@ -278,4 +272,11 @@ img {
 
 .img-right {
     float: right;
+}
+
+/*honors secton*/
+
+#medals~img {
+    width: 60px;
+    height: 30px;
 }
