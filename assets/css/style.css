@@ -260,12 +260,16 @@ h1 {
 
 
 p {
+    line-height: 30px;
+    font-size: 20px;
+    vertical-align: middle;
     display: inline;
 }
 
 img {
     width: 200px;
     height: 200px;
+    margin: 5px auto;
 }
 
 .img-left {
