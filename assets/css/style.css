@@ -289,13 +289,16 @@ a:hover {
     color: #C7A936;
 }
 
-.img-left a:hover {
+/*now all a element whit gold background are visible*/
+.img-left a:hover,
+#left-column div p a:hover {
     color: #386C5F;
 }
 
 /*honors sector*/
 #medals {
     clear: both;
+    text-align: center;
 }
 
 #medals details {
@@ -309,5 +312,4 @@ a:hover {
     width: 150px;
     height: 50px;
     margin: 5px;
-
 }
