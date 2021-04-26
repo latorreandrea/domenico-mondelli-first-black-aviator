@@ -38,10 +38,12 @@
     </header>
 
     <section id="form">
-        <div id="form-document">
+        <div id="form-document" class="card-left">
             <form action="http://ipoteticalsite.it" method="POST">
-                <p>
-use this form to send us documentation to expand the knowledge on Domenico Mondelli. Our collaborators will verify the sources and if deemed reliable they will implement them in this wiki
+                <p class="form-intro">
+                    <strong>use this form to send us documentation</strong> to expand the knowledge on Domenico
+                    Mondelli. Our collaborators will verify the sources and if deemed reliable they will implement them
+                    in this wiki
                 </p>
 
                 <fieldset>
@@ -52,6 +54,7 @@ use this form to send us documentation to expand the knowledge on Domenico Monde
                     <input id="name" type="text" name="name">
                     <label for="surname">Surname</label>
                     <input id="surname" type="text" name="surname">
+                    <br>
                     <label for="email">Email</label>
                     <input id="email" type="email" name="email">
                     <label for="phone">Phone</label>
@@ -62,9 +65,9 @@ use this form to send us documentation to expand the knowledge on Domenico Monde
                 <fieldset>
 
                     <legend>SEND YOUR SOURCES</legend>
-                    <label for="write">write your data</label>
-                    <textarea id="write" name="write" rows="3" cols="2"></textarea>
-                    <legend>SEND YOUR FILE</legend>
+                    <label for="write">describe your file</label>
+                    <textarea id="write" name="write"></textarea>
+
                     <label for="file">PDF only</label>
                     <input id="file" type="file" name="file" accept=".pdf">
 
@@ -75,10 +78,10 @@ use this form to send us documentation to expand the knowledge on Domenico Monde
             </form>
         </div>
 
-        <div id="form-event">
+        <div id="form-event" class="card-right">
             <form action="http://ipoteticalsite.it" method="POST">
-                <p>
-                   use this form to report an event that deals with the topics touched on in this wiki
+                <p class="form-intro">
+                    <strong>use this form to report an event</strong> that deals with the topics touched on in this wiki
                 </p>
                 <fieldset>
                     <legend>YOUR INFORMATION</legend>
@@ -87,6 +90,7 @@ use this form to send us documentation to expand the knowledge on Domenico Monde
                     <input id="name" type="text" name="name">
                     <label for="surname">Surname</label>
                     <input id="surname" type="text" name="surname">
+                    <br>
                     <label for="email">Email</label>
                     <input id="email" type="email" name="email">
                     <label for="phone">Phone</label>
@@ -96,12 +100,14 @@ use this form to send us documentation to expand the knowledge on Domenico Monde
                 <fieldset>
 
                     <legend>EVENT INFO</legend>
-                    <label for="write">event theme</label>
-                    <textarea id="write" name="write" rows="3" cols="2"></textarea>
-                    <label for="site">Site</label>
+
+                    <label for="write">describe the event</label>
+                    <textarea id="write" name="write"></textarea>
+                    <br>
+                    <label for="site">event address</label>
                     <input id="site" type="text" name="site">
-                    <label for="adress">Event address (phone or email)</label>
-                    <input id="adress" type="text" name="adress">
+                    <label for="event-contact">Event phone/email contact</label>
+                    <input id="event-contact" type="text" name="adress">
 
                 </fieldset>
 
@@ -110,20 +116,29 @@ use this form to send us documentation to expand the knowledge on Domenico Monde
             </form>
 
         </div>
-        <div id="news">
+        <div id="news" class="card-left">
+
             <form action="http://ipoteticalsite.it" method="POST">
-                
+
+                <p class="form-intro">
+                    <strong> use this forum to stay up</strong> to date on the community's discoveries and events that
+                    you
+                    will be attending
+                </p>
+                <fieldset>
+                    <legend>YOUR INFORMATION</legend>
                     <label for="name">Name</label>
                     <input id="name" type="text" name="name">
                     <label for="surname">Surname</label>
                     <input id="surname" type="text" name="surname">
                     <label for="email" required>Email</label>
                     <input id="email" type="email" name="email">
-                
+
+
+                </fieldset>
                 <button type="submit">Send!</button>
-                
             </form>
-                
+
         </div>
 
     </section>

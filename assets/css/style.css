@@ -234,7 +234,6 @@ h1 {
 .card-left {
     width: 60%;
     text-align: left;
-    line-height: 30px;
     padding: 20px;
     margin: 20px;
     float: left;
@@ -314,3 +313,47 @@ a:hover {
     margin: 5px;
 }
 
+/*form page*/
+
+#form {
+    clear: both;
+}
+
+input,
+textarea,
+label {
+    line-height: 30px;
+    text-align: center;
+    margin: 5px;
+}
+
+textarea {
+    resize: none;
+    width: 90%;
+}
+
+label {
+    font-weight: 600;
+    float: left;
+    width: 20%;
+    margin-top: 6px;
+}
+
+input,
+extarea {
+    float: left;
+    width: 70%;
+    margin-top: 6px;
+}
+
+
+legend {
+    font-weight: 700;
+    text-align: center;
+}
+
+fieldset {
+
+    border: black 2px solid;
+    border-radius: 5px;
+}
