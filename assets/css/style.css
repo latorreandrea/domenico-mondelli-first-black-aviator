@@ -165,6 +165,11 @@ body {
     width: 50%;
 }
 
+.event a:hover {
+    color: #386C5F;
+}
+
+
 /*footer*/
 
 footer {
