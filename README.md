@@ -12,11 +12,16 @@ and I would like to take advantage of this exam to be able to create a website t
 for history and honors, can be fascinating but that we risk forgetting.
 To say one of his firsts it would only be necessary to remember that he was the first aviator in the history of aviation.
 You will be able to find out more by visiting the site.
+(home page)
+![home](https://user-images.githubusercontent.com/80674568/116465802-ff1e2780-a86d-11eb-93dc-85d2464ee1c9.png)
 
-
-The site aims to present "Domenico Mondelli" life, education, primates and honors,
+The site aims to present "Domenico Mondelli" life and education
+![bio](https://user-images.githubusercontent.com/80674568/116465797-fdecfa80-a86d-11eb-9893-5d549a5f73c9.png)
+primates and honors
+![medals](https://user-images.githubusercontent.com/80674568/116465803-ffb6be00-a86d-11eb-8022-28733c1dd411.png)
 capture the attention of those interested in history (especially those in military history)
 and encourage experts to provide additional information, correlated with evidence (all this via a form).
+![forms](https://user-images.githubusercontent.com/80674568/116465801-fe859100-a86d-11eb-83b9-a73e0383b1d6.png)
 This is because, even if the Italian army was "inclusive", Italian society, its prejudices, twenty years of fascism plus the simple passage of time have created real black holes in the history of this man.
 
 I hope to make you appreciate a mostly unknown character.
