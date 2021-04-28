@@ -238,7 +238,7 @@ h1 {
 
 .card-left {
     width: 60%;
-    text-align: left;
+    text-align: center;
     padding: 20px;
     margin: 20px;
     float: left;
@@ -345,7 +345,7 @@ label {
 }
 
 input,
-extarea {
+textarea {
     float: left;
     width: 70%;
     margin-top: 6px;
@@ -361,4 +361,12 @@ fieldset {
 
     border: black 2px solid;
     border-radius: 5px;
+}
+
+button {
+    border-radius: 10px;
+    font-size: larger;
+    padding: 10px;
+    margin: 6px;
+
 }
