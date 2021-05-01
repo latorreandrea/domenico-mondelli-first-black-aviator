@@ -549,6 +549,25 @@ button {
         border-radius: 5px;
     }
 
+    textarea {
+        resize: none;
+        width: 80%;
+    }
+
+    label {
+        font-weight: 600;
+        float: left;
+        width: 20%;
+        margin-top: 6px;
+    }
+
+    input,
+    textarea {
+        float: left;
+        width: 80%;
+        margin-top: 6px;
+    }
+
 }
 
 @media screen and (max-width: 794px) {
