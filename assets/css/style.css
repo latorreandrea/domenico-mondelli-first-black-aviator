@@ -522,6 +522,45 @@ button {
         border: #252126 2px solid;
     }
 
+    /*bio page*/
+
+    .img-left,
+    .img-right {
+        clear: both;
+    }
+
+    .card-left {
+        width: 80%;
+        text-align: center;
+        padding: 20px;
+        margin: 5px;
+        float: left;
+        background-color: #386C5F;
+        border-radius: 5px;
+    }
+
+    .card-right {
+        width: 80%;
+        text-align: center;
+        padding: 20px;
+        margin: 5px;
+        float: right;
+        background-color: #C7A936;
+        border-radius: 5px;
+    }
+
+}
+
+@media screen and (max-width: 794px) {
+    /*bio table*/
+
+    #bio-table {
+        width: 100%;
+        border: #252126 2px solid;
+    }
+
+    /*bio page*/
+
     .img-left,
     .img-right {
         clear: both;
