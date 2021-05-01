@@ -411,10 +411,10 @@ button {
     }
 
     #mobile_menu li {
-        background-color: rgb(123, 71, 64, .4);
+        background-color: rgb(123, 71, 64, .8);
         display: block;
         padding: 0 3px;
-        margin: 0 2px;
+        margin: 3px 2px;
         border-radius: 5px;
     }
 
