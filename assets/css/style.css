@@ -437,6 +437,20 @@ button {
         padding: 10px;
     }
 
+    /*hero image*/
+
+    #cover-text {
+        font-weight: lighter;
+        font-style: italic;
+        padding: 20px 10px;
+        background-color: rgb(123, 71, 64, .4);
+        max-width: 180px;
+        bottom: 20%;
+        left: 10%;
+
+        position: absolute;
+    }
+
     /*expand community section*/
 
     .expand-community {
