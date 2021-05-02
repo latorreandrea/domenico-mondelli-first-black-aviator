@@ -29,6 +29,7 @@ body {
     right: 5%;
     margin: 5px 10px;
     position: fixed;
+    z-index: 2;
 }
 
 #mobile_menu {
