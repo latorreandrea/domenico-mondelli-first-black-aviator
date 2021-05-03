@@ -36,6 +36,11 @@ body {
     display: none;
 }
 
+#mobile_menu ul {
+        text-align: center;
+        display: none;
+    }
+
 
 #menu li {
     background-color: rgb(123, 71, 64, .4);
@@ -428,6 +433,12 @@ button {
         border-bottom: 1px solid #252126;
     }
 
+    #mobile_menu div summary i {
+        background-color: rgb(123, 71, 64);
+        border-radius: 50%;
+        padding: 10px;
+    }
+    
     .fas {
         font-size: 250%;
     }

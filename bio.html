@@ -37,10 +37,10 @@
             </ul>
         </nav>
 
-        <nav id="mobile_menu">
-            <details>
+        <nav id="mobile_menu" onclick="toggleMobileNav();">
+            <div>
                 <summary> <i class="fas fa-bars"></i> </summary>
-                <ul>
+                <ul id="mobile_menu_list">
                     <li>
                         <a href="./index.html">Home</a>
                     </li>
@@ -54,7 +54,7 @@
                         <a href="./join.html">Join Us</a>
                     </li>
                 </ul>
-            </details>
+            </div>
         </nav>
 
     </header>
@@ -421,6 +421,19 @@
 
     <!--font awersome script-->
     <script src="https://kit.fontawesome.com/1212bb9a28.js" crossorigin="anonymous"></script>
+
+    <!--From Marcel-->
+
+    <script>
+        function toggleMobileNav() {
+            let mobileNavList = document.getElementById('mobile_menu_list');
+            if (mobileNavList.style.display == 'none') {
+                mobileNavList.style.display = 'block';
+            } else {
+                mobileNavList.style.display = 'none';
+            }
+        }
+    </script>
 
 </body>
 
