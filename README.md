@@ -8,6 +8,8 @@ The site will be created to testify the skills learned on HTML and CSS with the 
 
 The site will focus on a character from Italian military history: **"Domenico Mondelli"** *(Asmara 30/06/1886 – Rome 13/12/1974)*
 
+![responsivemp1](https://user-images.githubusercontent.com/80674568/117348761-e08de100-aeaa-11eb-96d4-02063768298f.PNG)
+
 Unlike Italian society, the Italian army in its history has not been racist.
 In fact, in Italian military history, it is not uncommon to find black people even in the highest ranks.
 
