@@ -2,11 +2,11 @@
 ## the first black aviator in history
 ---
 ### Code Institute Portfolio Project 1: HTML/CSS Essentials
-
+---
 Welcome to the first site I'am creating.
 The site will be created to testify the skills learned on HTML and CSS with the Code Institute course.
 
-The site will focus on a character from Italian military history: "Domenico Mondelli" (Asmara 30/06/1886 – Rome 13/12/1974)
+The site will focus on a character from Italian military history: **"Domenico Mondelli"** *(Asmara 30/06/1886 – Rome 13/12/1974)*
 
 Unlike Italian society, the Italian army in its history has not been racist.
 In fact, in Italian military history, it is not uncommon to find black people even in the highest ranks.
