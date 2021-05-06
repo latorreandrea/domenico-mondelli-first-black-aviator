@@ -32,23 +32,23 @@ I hope to make you appreciate a mostly unknown character.
 [Enjoy the site!](https://latorreandrea.github.io/domenico-mondelli-first-black-aviator/)
 
 # Table of Contents
-- [UX](#ux)
+- [UX]
   * [Strategy](#strategy)
-    + [Project goal: Introduce Domenico Mondelli](#project-goal)
-      - [User goals:](#user-goals-)
-      - [User Expectations:](#user-expectations-)
+    + [Project goal: Introduce Domenico Mondelli]
+      - [User goals:]
+      - [User Expectations:]
       
-  * [Scope](#scope)
-  * [Structure](#structure)
-  * [Skeleton](#skeleton)
-  * [Surface](#surface)
-- [Features](#features)
+  * [Scope]
+  * [Structure]
+  * [Skeleton]
+  * [Surface]
+- [Features]
    
-    + [Features Left to Implement](#features-left-to-implement)
+    + [Features Left to Implement]
 
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Credits](#credits)
+- [Testing]
+- [Deployment]
+- [Credits]
 
 # UX
 
@@ -83,8 +83,8 @@ If the user is a history expert, he or she can contribute to the knowledge of th
 The goal of the site is to provide a reliable source of information pertaining to the history of Domenico Mondelli, trying to create a community in which experts and amateurs converge, and can contribute, through evidence, to expand what we know about Domenico Mondelli (as happens for wikipedia).
 
 At the moment there are no sites that speak exclusively of Domenico Mondelli, on the internet you can find articles about him taken in part from:
-* *Wikipedia* (from which the images and references of the medals and honors were taken), and partly taken from two books:
-* *Vita del pilota militare Domenico Mondelli* (Asmara 30/06/1886 – Roma 13/12/1974 – 88 anni )by Francesco Pezzoli (from this I took inspiration to tell you about his life)
-* *Il generale nero. Domenico Mondelli: bersagliere, aviatore e ardito*, Roma, Ed. Odradek by Mauro Valeri (from this I took pictures).
+* **Wikipedia** (from which the images and references of the medals and honors were taken), and partly taken from two books:
+* **Vita del pilota militare Domenico Mondelli* (Asmara 30/06/1886 – Roma 13/12/1974 – 88 anni )** by Francesco Pezzoli (from this I took inspiration to tell you about his life)
+* **Il generale nero. Domenico Mondelli: bersagliere, aviatore e ardito**, Roma, Ed. Odradek by Mauro Valeri (from this I took pictures).
 
 
