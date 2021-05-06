@@ -37,17 +37,15 @@ I hope to make you appreciate a mostly unknown character.
     + [Project goal: Introduce Domenico Mondelli](#project-goal)
       - [User goals:](#user-goals-)
       - [User Expectations:](#user-expectations-)
-      - [User Stories:](#user-stories-)
-      - [Strategy Table](#strategy-table)
-      - [Trends of modern websites:](#trends-of-modern-websites-)
+      
   * [Scope](#scope)
   * [Structure](#structure)
   * [Skeleton](#skeleton)
   * [Surface](#surface)
 - [Features](#features)
-    + [Existing Features](#existing-features)
+   
     + [Features Left to Implement](#features-left-to-implement)
-- [Technologies Used](#technologies-used)
+
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Credits](#credits)
