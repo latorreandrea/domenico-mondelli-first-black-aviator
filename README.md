@@ -19,14 +19,7 @@ for history and honors, can be fascinating but that we risk forgetting.
 To say one of his firsts it would only be necessary to remember that he was the first black aviator in the history of aviation.
 You will be able to find out more [by visiting the site.](https://latorreandrea.github.io/domenico-mondelli-first-black-aviator/)
 
-
-
-
 This is because, even if the Italian army was "inclusive", Italian society, its prejudices, twenty years of fascism plus the simple passage of time have created real black holes in the history of this man.
-
-There are no sites that speak exclusively of Domenico Mondelli, on the internet you can find articles about him taken in part from wikipedia (from which the images and references of the medals and honors were taken), and partly taken from two books:
--Vita del pilota militare Domenico Mondelli (Asmara 30/06/1886 – Roma 13/12/1974 – 88 anni )by Francesco Pezzoli (from this I took inspiration to tell you about his life)
--Il generale nero. Domenico Mondelli: bersagliere, aviatore e ardito, Roma, Ed. Odradek by Mauro Valeri (from this I took pictures).
 
 I hope to make you appreciate a mostly unknown character.
 [Enjoy the site!](https://latorreandrea.github.io/domenico-mondelli-first-black-aviator/)
