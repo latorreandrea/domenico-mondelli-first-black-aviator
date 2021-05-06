@@ -32,23 +32,23 @@ I hope to make you appreciate a mostly unknown character.
 [Enjoy the site!](https://latorreandrea.github.io/domenico-mondelli-first-black-aviator/)
 
 # Table of Contents
-- [UX]
-  * [Strategy](#strategy)
-    + [Project goal: Introduce Domenico Mondelli]
-      - [User goals:]
-      - [User Expectations:]
+* UX
+  * Strategy
+    * Project goal: Introduce Domenico Mondelli
+      * User goals:
+      * User Expectations:
       
-  * [Scope]
-  * [Structure]
-  * [Skeleton]
-  * [Surface]
-- [Features]
+  * Scope
+  * Structure
+  * Skeleton
+  * Surface
+* Features
    
-    + [Features Left to Implement]
+    * Features Left to Implement
 
-- [Testing]
-- [Deployment]
-- [Credits]
+*Testing
+*Deployment
+
 
 # UX
 
