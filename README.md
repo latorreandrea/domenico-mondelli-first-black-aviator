@@ -54,7 +54,9 @@ If the user is a history expert, he or she can contribute to the knowledge of th
 
 #### Site owner's goal:
 
-The goal of the site is to provide a reliable source of information pertaining to the history of Domenico Mondelli, trying to create a community in which experts and amateurs converge, and can contribute, through evidence, to expand what we know about Domenico Mondelli (as happens for wikipedia).
+The main goal of the site is to provide a reliable source of information pertaining to the history of Domenico Mondelli, trying to create a community in which experts and amateurs converge, and can contribute, through evidence, to expand what we know about Domenico Mondelli (as happens for wikipedia).
+
+The site would also like to indirectly raise awareness on the issue of inclusion and demonstrate how in history an environment generally considered closed like the military one has always proved to be the first channel of inclusion of a society (a striking example is the history of the Roman Empire, and without going too far back in time in Italian history itself army has greatly accelerated the process of literacy and unification of the country especially in the 60s), a real paradox given that military metaphors are often used above all in politics to create racism.
 
 ---
 
@@ -93,7 +95,14 @@ The goal of the site is to provide a reliable source of information pertaining t
 - The bio page is accompanied by paragraphs arranged in chronological order that speak of Mondelli's life and are accompanied by historical photos relating to the phase he lived
 ![bioparagraph](https://user-images.githubusercontent.com/80674568/117531743-5c3f7900-afe4-11eb-8278-1248e3f0f5ca.PNG)
 - The photos are clickable and give access to the original file
-- The paragraphs are deliberately not in columns and have alternating colors to create dynamism, and try not to let the user's attention drop (however compelling we talk about history and it would be nice to be able to attract the attention of even those who are not passionate )
+- The paragraphs are deliberately not in columns and have alternating colors to create dynamism, and try not to let the user's attention drop (however compelling we talk about history and it would be nice to be able to attract the attention of even those who are not passionate)
+
+### Honors Page
+- The Honors page contains a chronological list of the prizes awarded to Domenico Mondelli
+![onori](https://user-images.githubusercontent.com/80674568/117532467-fa810e00-afe7-11eb-9165-35a95dd3e572.PNG)
+- All honors are symbolized by a small image that, when clicked, opens a tab explaining the meaning of that symbol (knowing that not everyone is an expert in military ribbons)
+- All honors are accompanied by a brief description with dating, if you click, they expand into a quote describing the reason for awarding this medal
+![onoriexpanded](https://user-images.githubusercontent.com/80674568/117532509-32885100-afe8-11eb-9b4b-b9a144949863.PNG)
 
 ---
 
