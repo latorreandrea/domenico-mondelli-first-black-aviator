@@ -91,7 +91,9 @@ The site would also like to indirectly raise awareness on the issue of inclusion
 
 ### Bio Page
 - The Bio page main feature is the synoptic table of the life and career of domenico mondelli which also has a photo of his passport inside which refers to the style of wikipedia
-![tabella](https://user-images.githubusercontent.com/80674568/117531638-c4418f80-afe3-11eb-9016-0b0a0d15d06c.PNG)
+ 
+ ![tabella](https://user-images.githubusercontent.com/80674568/117531638-c4418f80-afe3-11eb-9016-0b0a0d15d06c.PNG)
+ 
 - The bio page is accompanied by paragraphs arranged in chronological order that speak of Mondelli's life and are accompanied by historical photos relating to the phase he lived
 ![bioparagraph](https://user-images.githubusercontent.com/80674568/117531743-5c3f7900-afe4-11eb-8278-1248e3f0f5ca.PNG)
 - The photos are clickable and give access to the original file
@@ -109,6 +111,7 @@ The site would also like to indirectly raise awareness on the issue of inclusion
 #### All the pages we have seen so far were intended to bring the user here and motivate him in filling out the forms present here
 
 - The Join page has 3 forms inside with the same style but in alternating colors and accompanied by a short introduction defining their purpose
+
 - **Documentation form:** 
 ![documentationform](https://user-images.githubusercontent.com/80674568/117532717-2d77d180-afe9-11eb-82f0-bd7bf097b615.PNG)
   - This form allows the user to send the site owner some tests on any information to add to the Mondelli wiki.
@@ -118,7 +121,7 @@ The site would also like to indirectly raise awareness on the issue of inclusion
 ![eventform](https://user-images.githubusercontent.com/80674568/117532794-ad05a080-afe9-11eb-9498-575894bfe6e9.PNG)
   - This form allows the user to report events in which the community or site owners can participate as the topics covered in these events deal with the topics that are covered on the site (aviation, history, social inclusion, etc.)
   - In this form the user enters his data in order to be contacted and those of the event. In this way, if the owners of the site find the event interesting and compatible with their commitments, they can contact the organizers of the event sent for further information.
-  - 
+  
 - **News Form**
 ![newsform](https://user-images.githubusercontent.com/80674568/117532795-ad9e3700-afe9-11eb-9057-3f568487a837.PNG)
   - This form allows the user to stay updated via the email address that he sends on any changes made to the site thanks to the reports of other users
@@ -132,7 +135,54 @@ The site would also like to indirectly raise awareness on the issue of inclusion
 used to structure the website and create the essential elements of site.
 
 ### CSS
-used to style the site and make it responsive
+used to style the site and make it responsive.
+
+### Google Fonts
+used to import the font style.
+
+### GitPod
+used as the development environment to help write my code.
+
+### Git
+to enable version control and help commit changes to my site.
+
+### GitHub
+used to store the source code and repository.
+
+### GitHub Pages
+used to deploy my website.
+
+---
+
+## Testing
+
+### Google Developer Tools
+I used Google Developer tools to set the responsive feature. It tells you how your site looks across multiple devices, including a 4k screen.
+with this system I have tried and verified that the site is responsive on mobile phones of all sizes.
+In fact, during the initial design I only took into account the result on desktops and laptops
+
+### W3C Validator Tools
+
+To help validate my HTML and CSS, I used W3C validator tools to ensure my code was clean. I regularly checked if my code was cleared from any errors after each section was created.
+
+Here are a couple of errors flagged and rectified:
+
+Element <div> not allowed as a child of element <button> in this context. I rectified this by replacing <div> with a <span>and gave it a property of display:block.
+Image elements must have an alt attribute. I rectified this by giving an alt attribute. I realised I need to get into the habit of adding this as soon as I add an image. I understand the importance for accessibility purposes.
+Section lacks heading. I used <p> tag and used Bootstrap's h4 class to style headings. I instead replaced the <p> and used <h4>.
+Element <span> not allowed as child of element <ul> in this context - this was referring to the education and experience section. I realised I was nesting my list items incorrectly.
+Manual Testing
+User Stories
+Please view it here
+I have tested my site on Safari, and Google Chrome and the website looks fine and works as intended. I have also tested on the following devices:
+
+iPhone X
+iPhone XR
+iPhone 6 plus
+Samsung Galaxy
+Desktop
+Macbook Pro
+iPad
 
 ---
 
