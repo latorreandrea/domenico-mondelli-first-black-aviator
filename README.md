@@ -99,10 +99,30 @@ The site would also like to indirectly raise awareness on the issue of inclusion
 
 ### Honors Page
 - The Honors page contains a chronological list of the prizes awarded to Domenico Mondelli
-![onori](https://user-images.githubusercontent.com/80674568/117532467-fa810e00-afe7-11eb-9165-35a95dd3e572.PNG)
+             ![onori](https://user-images.githubusercontent.com/80674568/117532467-fa810e00-afe7-11eb-9165-35a95dd3e572.PNG)
 - All honors are symbolized by a small image that, when clicked, opens a tab explaining the meaning of that symbol (knowing that not everyone is an expert in military ribbons)
 - All honors are accompanied by a brief description with dating, if you click, they expand into a quote describing the reason for awarding this medal
-![onoriexpanded](https://user-images.githubusercontent.com/80674568/117532509-32885100-afe8-11eb-9b4b-b9a144949863.PNG)
+ 
+ ![onoriexpanded](https://user-images.githubusercontent.com/80674568/117532509-32885100-afe8-11eb-9b4b-b9a144949863.PNG)
+ 
+### Join Page
+#### All the pages we have seen so far were intended to bring the user here and motivate him in filling out the forms present here
+
+- The Join page has 3 forms inside with the same style but in alternating colors and accompanied by a short introduction defining their purpose
+- **Documentation form:** 
+![documentationform](https://user-images.githubusercontent.com/80674568/117532717-2d77d180-afe9-11eb-82f0-bd7bf097b615.PNG)
+  - This form allows the user to send the site owner some tests on any information to add to the Mondelli wiki.
+  - The form is accompanied by a section in which the user enters his data and in the event that the information is interesting but not strictly reliable these data will be used by the owners of the site to begin their investigations on the veracity of such information (when you know what you want to find, searching becomes easier)
+
+- **Events Form**
+![eventform](https://user-images.githubusercontent.com/80674568/117532794-ad05a080-afe9-11eb-9498-575894bfe6e9.PNG)
+  - This form allows the user to report events in which the community or site owners can participate as the topics covered in these events deal with the topics that are covered on the site (aviation, history, social inclusion, etc.)
+  - In this form the user enters his data in order to be contacted and those of the event. In this way, if the owners of the site find the event interesting and compatible with their commitments, they can contact the organizers of the event sent for further information.
+  - 
+- **News Form**
+![newsform](https://user-images.githubusercontent.com/80674568/117532795-ad9e3700-afe9-11eb-9057-3f568487a837.PNG)
+  - This form allows the user to stay updated via the email address that he sends on any changes made to the site thanks to the reports of other users
+  - This form allows the user to stay updated via the email address that he sends on any real appointments in which the site owners intend to participate (as experts or as an audience) or in any case, other interesting events will be notified via email but in which the owners of the site are not able to participate for logistical reasons
 
 ---
 
