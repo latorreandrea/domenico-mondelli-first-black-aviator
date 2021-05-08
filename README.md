@@ -67,6 +67,8 @@ The site would also like to indirectly raise awareness on the issue of inclusion
 - Displayed in order to present this character in an ever more exhaustive way, remains consistent and fixed to the top.
 - This helps guide users and includes short menu titles.
 - It collapses into a hamburger icon when viewed on smaller devices. It is also interactive and closes when a user clicks on a nav item.
+
+
 ![navsmall](https://user-images.githubusercontent.com/80674568/117530944-3a43f780-afe0-11eb-9034-05e322bc13b0.PNG)
 
 ### Expand community section
@@ -159,9 +161,10 @@ used to deploy my website.
 ### Google Developer Tools
 I used Google Developer tools to set the responsive feature. It tells you how your site looks across multiple devices, including a 4k screen.
 with this system I have tried and verified that the site is responsive on mobile phones of all sizes.
-In fact, during the initial design I only took into account the result on desktops and laptops
 
-**everything reacted unexpectedly as expected so I tried the site on browsers like Opera, Google Chrome and Firefox**
+*I tried the site on browsers like Opera, Google Chrome and Firefox*
+
+
 
 ---
 
