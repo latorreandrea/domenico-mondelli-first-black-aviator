@@ -61,12 +61,15 @@ The goal of the site is to provide a reliable source of information pertaining t
 ## Features
 
 ### Navbar 
-- Displayed in order to present the , remains consistent and fixed to the top.
+- Displayed in order to present this character in an ever more exhaustive way, remains consistent and fixed to the top.
 - This helps guide users and includes short menu titles.
 - It collapses into a hamburger icon when viewed on smaller devices. It is also interactive and closes when a user clicks on a nav item.
 
 ### Expand community section
--
+- This section can be found on all pages, positioned immediately after the main information and and is linked to the form page.
+- The purpose of this section is to encourage the user to contribute to the growth of the community by reporting events or by expanding (using evidence) the Mondelli's wiki.
+- The section expands to attract the user's attention when the cursor is hovered over it (only on screens with a width greater than 748px) on smaller screens I have eliminated the function because I could not get it to work as I wanted.
+- **N.B.** this section on the form page is instead linked to the bio and Honors page, in this way the user can see how the information he has provided to the community has contributed to its growth
 
 ### Social media links
 - All links load onto a new tab allowing the userto join the community we want to create and stay updated via social channels on the events in which the community will participate 
