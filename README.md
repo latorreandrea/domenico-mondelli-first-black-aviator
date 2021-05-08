@@ -61,12 +61,16 @@ The goal of the site is to provide a reliable source of information pertaining t
 ## Features
 
 ### Navbar 
-- Displayed in order of priority, remains consistent and fixed to the top.
+- Displayed in order to present the , remains consistent and fixed to the top.
 - This helps guide users and includes short menu titles.
 - It collapses into a hamburger icon when viewed on smaller devices. It is also interactive and closes when a user clicks on a nav item.
 
+### Expand community section
+-
+
 ### Social media links
-- All links load onto a new tab allowing the user to be aware of where they have come from. It also has a hover effect and changes colour, further enhancing user experience.
+- All links load onto a new tab allowing the userto join the community we want to create and stay updated via social channels on the events in which the community will participate 
+- Allow the user to stay updated via social channels on any news that the community has collected
 
 ---
 
