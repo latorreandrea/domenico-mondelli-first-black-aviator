@@ -55,14 +55,29 @@ If the user is a history expert, he or she can contribute to the knowledge of th
 #### Site owner's goal:
 
 The goal of the site is to provide a reliable source of information pertaining to the history of Domenico Mondelli, trying to create a community in which experts and amateurs converge, and can contribute, through evidence, to expand what we know about Domenico Mondelli (as happens for wikipedia).
+
+---
+
+## Features
+
+### Navbar 
+- Displayed in order of priority, remains consistent and fixed to the top.
+- This helps guide users and includes short menu titles.
+- It collapses into a hamburger icon when viewed on smaller devices. It is also interactive and closes when a user clicks on a nav item.
+
+### Social media links
+- All links load onto a new tab allowing the user to be aware of where they have come from. It also has a hover effect and changes colour, further enhancing user experience.
+
 ---
 
 ## Technologies Used
+
 ### HTML
 used to structure the website and create the essential elements of site.
 
 ### CSS
 used to style the site and make it responsive
+
 ---
 
 ## Credits
