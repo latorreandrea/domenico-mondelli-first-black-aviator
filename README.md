@@ -61,9 +61,11 @@ The goal of the site is to provide a reliable source of information pertaining t
 ## Features
 
 ### Navbar 
+![navextended](https://user-images.githubusercontent.com/80674568/117530942-39ab6100-afe0-11eb-9070-87d6777892c3.png)
 - Displayed in order to present this character in an ever more exhaustive way, remains consistent and fixed to the top.
 - This helps guide users and includes short menu titles.
 - It collapses into a hamburger icon when viewed on smaller devices. It is also interactive and closes when a user clicks on a nav item.
+![navsmall](https://user-images.githubusercontent.com/80674568/117530944-3a43f780-afe0-11eb-9034-05e322bc13b0.PNG)
 
 ### Expand community section
 - This section can be found on all pages, positioned immediately after the main information and and is linked to the form page.
