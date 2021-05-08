@@ -142,6 +142,9 @@ used to style the site and make it responsive.
 ### Google Fonts
 used to import the font style.
 
+### Font Awesome
+used to import some icons.
+
 ### GitPod
 used as the development environment to help write my code.
 
