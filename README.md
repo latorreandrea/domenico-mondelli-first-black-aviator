@@ -76,6 +76,7 @@ The goal of the site is to provide a reliable source of information pertaining t
 - **N.B.** this section on the form page is instead linked to the bio and Honors page, in this way the user can see how the information he has provided to the community has contributed to its growth
 
 ### Social media links
+![footer](https://user-images.githubusercontent.com/80674568/117531191-a541fe00-afe1-11eb-98cd-d21a7bf557b2.PNG)
 - All links load onto a new tab allowing the userto join the community we want to create and stay updated via social channels on the events in which the community will participate 
 - Allow the user to stay updated via social channels on any news that the community has collected
 
