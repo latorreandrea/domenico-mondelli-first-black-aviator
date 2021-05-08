@@ -161,28 +161,7 @@ I used Google Developer tools to set the responsive feature. It tells you how yo
 with this system I have tried and verified that the site is responsive on mobile phones of all sizes.
 In fact, during the initial design I only took into account the result on desktops and laptops
 
-### W3C Validator Tools
-
-To help validate my HTML and CSS, I used W3C validator tools to ensure my code was clean. I regularly checked if my code was cleared from any errors after each section was created.
-
-Here are a couple of errors flagged and rectified:
-
-Element <div> not allowed as a child of element <button> in this context. I rectified this by replacing <div> with a <span>and gave it a property of display:block.
-Image elements must have an alt attribute. I rectified this by giving an alt attribute. I realised I need to get into the habit of adding this as soon as I add an image. I understand the importance for accessibility purposes.
-Section lacks heading. I used <p> tag and used Bootstrap's h4 class to style headings. I instead replaced the <p> and used <h4>.
-Element <span> not allowed as child of element <ul> in this context - this was referring to the education and experience section. I realised I was nesting my list items incorrectly.
-Manual Testing
-User Stories
-Please view it here
-I have tested my site on Safari, and Google Chrome and the website looks fine and works as intended. I have also tested on the following devices:
-
-iPhone X
-iPhone XR
-iPhone 6 plus
-Samsung Galaxy
-Desktop
-Macbook Pro
-iPad
+**everything reacted unexpectedly as expected so I tried the site on browsers like Opera, Google Chrome and Firefox**
 
 ---
 
