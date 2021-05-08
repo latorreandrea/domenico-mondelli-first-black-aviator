@@ -44,9 +44,9 @@ This aspect of Italian history is not well known (especially among Italians them
 To say one of his firsts it would only be necessary to remember that he was the first black aviator in the history of aviation.
 
 #### User goals:
-- know more about Domenico Mondelli
-- Know more about the Italian military history
-- help the comunnity to grow up
+- **Know more about Domenico Mondelli**
+- **Know more about the Italian military history**
+- **Help the comunnity to grow up**
 
 The user should be encouraged to find out more about this character, if the site manages to attract him, it can convince him to participate or to report useful events for the community.
 
@@ -55,6 +55,17 @@ If the user is a history expert, he or she can contribute to the knowledge of th
 #### Site owner's goal:
 
 The goal of the site is to provide a reliable source of information pertaining to the history of Domenico Mondelli, trying to create a community in which experts and amateurs converge, and can contribute, through evidence, to expand what we know about Domenico Mondelli (as happens for wikipedia).
+---
+
+## Technologies Used
+### HTML
+used to structure the website and create the essential elements of site.
+
+### CSS
+used to style the site and make it responsive
+---
+
+## Credits
 
 At the moment there are no sites that speak exclusively of Domenico Mondelli, on the internet you can find articles about him taken in part from:
 * **Wikipedia** (from which the images and references of the medals and honors were taken), and partly taken from two books:
