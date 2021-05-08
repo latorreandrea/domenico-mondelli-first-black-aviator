@@ -68,9 +68,11 @@ The goal of the site is to provide a reliable source of information pertaining t
 ![navsmall](https://user-images.githubusercontent.com/80674568/117530944-3a43f780-afe0-11eb-9034-05e322bc13b0.PNG)
 
 ### Expand community section
+![expand](https://user-images.githubusercontent.com/80674568/117531117-3f557680-afe1-11eb-9fa4-ae866c1ac4cf.PNG)
 - This section can be found on all pages, positioned immediately after the main information and and is linked to the form page.
 - The purpose of this section is to encourage the user to contribute to the growth of the community by reporting events or by expanding (using evidence) the Mondelli's wiki.
 - The section expands to attract the user's attention when the cursor is hovered over it (only on screens with a width greater than 748px) on smaller screens I have eliminated the function because I could not get it to work as I wanted.
+![expandhoover](https://user-images.githubusercontent.com/80674568/117531118-3fee0d00-afe1-11eb-9b47-a32a2357b6f2.png)
 - **N.B.** this section on the form page is instead linked to the bio and Honors page, in this way the user can see how the information he has provided to the community has contributed to its growth
 
 ### Social media links
