@@ -165,6 +165,24 @@ In fact, during the initial design I only took into account the result on deskto
 
 ---
 
+## Deployment
+I used GitHub pages to deploy my website. To do this:
+
+1. Create a repository on GitHub and a project name/description.
+2. Once this is done, there is an option to open this on GitPod by clicking on the green button.
+3. Initialise your repo by using the git init command
+4. Add files to Git (staging area)
+5. Use the git push command to push this
+6. Go to GitHub and load your repo
+7. Click on Settings
+8. Scroll down to GitHub Pages
+9. Click on master branch.
+10. The page should now load and your website is now live!
+
+I committed regularly throughout the project
+
+---
+
 ## Credits
 
 At the moment there are no sites that speak exclusively of Domenico Mondelli, on the internet you can find articles about him taken in part from:
