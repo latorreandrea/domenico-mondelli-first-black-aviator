@@ -80,6 +80,21 @@ The goal of the site is to provide a reliable source of information pertaining t
 - All links load onto a new tab allowing the userto join the community we want to create and stay updated via social channels on the events in which the community will participate 
 - Allow the user to stay updated via social channels on any news that the community has collected
 
+### Landing Page
+- Home page with hero image and a suggestive phrase
+![heroimage](https://user-images.githubusercontent.com/80674568/117531356-6d878600-afe2-11eb-9b94-723adc472a52.PNG)
+- The main part is divided into paragraphs with concise and deliberately captivating sentences that encourage the user to become curious about Mondelli's life.
+![home](https://user-images.githubusercontent.com/80674568/117531405-a1fb4200-afe2-11eb-870e-166689417127.PNG)
+- All paragraphs end with a sentence that prompts the user to place the cursor over it and that are linked to the bio page
+
+### Bio Page
+- The Bio page main feature is the synoptic table of the life and career of domenico mondelli which also has a photo of his passport inside which refers to the style of wikipedia
+![tabella](https://user-images.githubusercontent.com/80674568/117531638-c4418f80-afe3-11eb-9016-0b0a0d15d06c.PNG)
+- The bio page is accompanied by paragraphs arranged in chronological order that speak of Mondelli's life and are accompanied by historical photos relating to the phase he lived
+![bioparagraph](https://user-images.githubusercontent.com/80674568/117531743-5c3f7900-afe4-11eb-8278-1248e3f0f5ca.PNG)
+- The photos are clickable and give access to the original file
+- The paragraphs are deliberately not in columns and have alternating colors to create dynamism, and try not to let the user's attention drop (however compelling we talk about history and it would be nice to be able to attract the attention of even those who are not passionate )
+
 ---
 
 ## Technologies Used
